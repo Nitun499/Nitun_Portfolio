@@ -1,6 +1,6 @@
 # Portfolio Website
 
-![Portfolio Website](https://your-portfolio-url.com/screenshot.png)
+![Portfolio Website](public/assets/screenshotport.png)
 
 Welcome to my portfolio website! This project was built using ReactJS and showcases my work, skills, and experiences. You can explore the live version of the website [here](https://nitunsinghportfolio.netlify.app/).
 
