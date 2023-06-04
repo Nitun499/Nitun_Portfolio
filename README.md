@@ -56,9 +56,7 @@ Open your browser and visit `http://localhost:3000` to see the website.
 
 I appreciate contributions to improve this portfolio website. If you have any suggestions, enhancements, or bug fixes, please feel free to open an issue or submit a pull request.
 
-## License
 
-This project is licensed under the [MIT License](https://opensource.org/licenses/MIT). Feel free to use and modify the code as per your needs.
 
 ---
 
