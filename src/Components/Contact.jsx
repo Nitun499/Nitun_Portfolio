@@ -10,15 +10,9 @@ const Contact = () => {
        <h1 className='heading ' style={{textAlign:'center'}}>Contact</h1>
        <div className="contactele_cont">
         <div className="cont_left">
-            {/* <div className="svgicon">
-                <img  src="../assets/contactsvg3.png" alt="usersvg" />
-            </div> */}
+            
             <h2 className='cont_heading' style={{textAlign:'center'}}>Coding Profiles</h2>
-            {/* <div className="cont_icon coding_profile">
-                <a className='social_icon' href="https://leetcode.com/NitunRathore/" target='_blank'>LeetCode</a>
-                <a className='social_icon' href="https://auth.geeksforgeeks.org/user/nitinshivbaba499" target='_blank'>GeeksForGeeks</a>
-                <a className='social_icon' href="https://www.hackerrank.com/nitinshivbaba499?hr_r=1" target='_blank'>Hackerrank</a>
-            </div> */}
+           
             <div className="outer-div">
                 <div className="inner_div">
                     <div className="so_coprofilediv">

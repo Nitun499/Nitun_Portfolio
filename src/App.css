@@ -35,6 +35,20 @@
     flex: 1;
     /* border: 1px solid red; */
 }
+
+.spinner-container {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 100vh;
+  }
+  
+  .spinner {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+  }
+  
 @media screen and (width<=768px){
     .wrapper{
         flex-direction: column;
