@@ -2,7 +2,7 @@
 
 ![Portfolio Website](public/assets/screenshotport.png)
 
-Welcome to my portfolio website! This project was built using ReactJS and showcases my work, skills, and experiences. You can explore the live version of the website [here](https://nitunsinghportfolio.netlify.app/).
+Welcome to my portfolio website! This project was built using ReactJS and showcases my work, skills, and experiences. You can explore the live version of the website [here](https://nitunsinghh.netlify.app/).
 
 ## Table of Contents
 
